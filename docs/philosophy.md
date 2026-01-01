@@ -1,0 +1,1 @@
+Phoenix Linux is a minimal, terminal-focused, and security oriented operating system, Arch Linux based distribution. It starts small, works right out of the box, and gives users freedom to either keep it as it is, or continue building their ideal environment.
